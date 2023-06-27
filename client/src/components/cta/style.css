@@ -1,0 +1,121 @@
+.CTA {
+    align-items: center;
+    display: flex;
+    gap: 11px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .CTA .frame {
+    align-items: center;
+    display: flex;
+    gap: 11px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .CTA .let-s-find-out {
+    font-family: "Work Sans-SemiBold", Helvetica;
+    font-weight: 600;
+    letter-spacing: 0;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .CTA .noun-arrow {
+    height: 31px;
+    min-width: 37px;
+    overflow: hidden;
+    position: relative;
+    transform: rotate(-180deg);
+  }
+  
+  .CTA .group {
+    height: 22px;
+    left: 5px;
+    position: absolute;
+    top: 4px;
+    transform: rotate(180deg);
+    width: 27px;
+  }
+  
+  .CTA .overlap-group {
+    height: 1311px;
+    left: 0;
+    position: absolute;
+    top: 1220px;
+    width: 6640px;
+  }
+  
+  .CTA .created-by-nailil {
+    color: #ffffff;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 5px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 6640px;
+  }
+  
+  .CTA .from-the-noun {
+    color: #ffffff;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 5px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 596px;
+    width: 6399px;
+  }
+  
+  .CTA.in-page-botton {
+    -webkit-backdrop-filter: blur(144px) brightness(100%);
+    backdrop-filter: blur(144px) brightness(100%);
+    background-color: #e0fd2c;
+    border-radius: 36px;
+    overflow: hidden;
+    padding: 8px 16px;
+  }
+  
+  .CTA.default {
+    background-color: #7000ff;
+    border: 7px solid;
+    border-color: #e0fd2c;
+    box-shadow: 7px 7px 0px #e0fd2c;
+    padding: 21px 26px;
+  }
+  
+  .CTA.home-page-botton {
+    -webkit-backdrop-filter: blur(144px) brightness(100%);
+    backdrop-filter: blur(144px) brightness(100%);
+    background-color: #e0fd2c;
+    border-radius: 36px;
+    overflow: hidden;
+    padding: 14px 16px;
+  }
+  
+  .CTA.in-page-botton .let-s-find-out {
+    color: #0f0f0e;
+    font-size: 22px;
+    line-height: 30.8px;
+  }
+  
+  .CTA.default .let-s-find-out {
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 39.2px;
+  }
+  
+  .CTA.home-page-botton .let-s-find-out {
+    color: #0f0f0e;
+    font-size: 28px;
+    line-height: 39.2px;
+  }
+  
